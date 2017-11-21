@@ -12,3 +12,4 @@
 * https://getbootstrap.com/docs/4.0/getting-started/introduction/
 * https://material.io/guidelines/
 * https://developer.apple.com/ios/human-interface-guidelines/overview/themes/
+* https://medium.com/@kollinz/hamburger-menu-alternatives-for-mobile-navigation-a3a3beb555b8
